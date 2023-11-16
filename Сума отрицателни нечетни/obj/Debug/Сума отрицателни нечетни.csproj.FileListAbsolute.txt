@@ -1,0 +1,7 @@
+E:\vs project\Сума отрицателни нечетни\bin\Debug\Сума отрицателни нечетни.exe.config
+E:\vs project\Сума отрицателни нечетни\bin\Debug\Сума отрицателни нечетни.exe
+E:\vs project\Сума отрицателни нечетни\bin\Debug\Сума отрицателни нечетни.pdb
+E:\vs project\Сума отрицателни нечетни\obj\Debug\Сума отрицателни нечетни.csproj.AssemblyReference.cache
+E:\vs project\Сума отрицателни нечетни\obj\Debug\Сума отрицателни нечетни.csproj.CoreCompileInputs.cache
+E:\vs project\Сума отрицателни нечетни\obj\Debug\Сума отрицателни нечетни.exe
+E:\vs project\Сума отрицателни нечетни\obj\Debug\Сума отрицателни нечетни.pdb
